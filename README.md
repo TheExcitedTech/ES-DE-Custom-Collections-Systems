@@ -4,9 +4,9 @@ Custom systems for the ES-DE themes. Also, have the modified es_systems.xml for 
 
 Custom Systems/Collections:
 
-- SMW Hacks
-- Sonic Hacks
-- Pokemon Hacks
+- SMW Hacks | ROM Folder Name: smwhacks
+- Sonic Hacks | ROM Folder Name: sonichacks
+- Pokemon Hacks | ROM Folder Name: pokehacks
 
 
 The media is for the themes:
