@@ -10,7 +10,11 @@ Custom Systems/Collections:
 
 
 The media is for the themes:
+Note: Not every theme will have every custom system
 
 - Alekfull NX theme for ES-DE 
 https://github.com/anthonycaccese/alekfull-nx-es-de/tree/main
+
+- Artbook Next for ES-DE
+https://github.com/anthonycaccese/art-book-next-es-de/tree/main
 
