@@ -16,7 +16,7 @@ For theme specific art, I kept them in their respective folder.
 - Teenage Mutant Ninja Turtles | 'tmnt'
 - Street Fighter | 'streetfighter'
 
-##Instructions:
+## Instructions:
 
 Put a copy of the theme that you are going to add content to in your ES-DE/themes home direcory, refer to ES-DE's documentation on where that is for your system. Make sure that you don't have the same theme from the theme downloader in ES-DE. It will take precedent over the one in your home folder. 
 
