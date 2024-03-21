@@ -2,7 +2,7 @@
 Custom systems/collections for the ES-DE themes. The custom es_systems.xml is included. 
 
 
-##Custom Systems:
+## Custom Systems:
 
 - SMW Hacks | ROM Folder Name: 'smwhacks'
 - Sonic Hacks | ROM Folder Name: 'sonichacks'
@@ -11,7 +11,7 @@ Custom systems/collections for the ES-DE themes. The custom es_systems.xml is in
 
 For theme specific art, I kept them in their respective folder. 
 
-##Custom Collections:
+## Custom Collections:
 
 - Teenage Mutant Ninja Turtles | 'tmnt'
 - Street Fighter | 'streetfighter'
@@ -36,8 +36,8 @@ I organized the SVG logo files into three main categories:
 - Color Logos
 - White Logos
 
-[!NOTE]
-**Not every theme will have custom art/logos for all system/collections**
+>[!NOTE]
+>**Not every theme will have custom art/logos for all system/collections**
 
 Feel free to submit a PR if you want to add another custom collection/system with artwork, or new logos!
 
