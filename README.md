@@ -4,17 +4,17 @@ Custom systems/collections for the ES-DE themes. The custom es_systems.xml is in
 
 ## Custom Systems:
 
-- SMW Hacks | ROM Folder Name: 'smwhacks'
-- Sonic Hacks | ROM Folder Name: 'sonichacks'
-- Pokemon Hacks | ROM Folder Name: 'pokehacks'
-- Genesis Hacks | ROM Folder Name: 'genhacks'
+- SMW Hacks | ROM Folder Name: `smwhacks`
+- Sonic Hacks | ROM Folder Name: `sonichacks`
+- Pokemon Hacks | ROM Folder Name: `pokehacks`
+- Genesis Hacks | ROM Folder Name: `genhacks`
 
 For theme specific art, I kept them in their respective folder. 
 
 ## Custom Collections:
 
-- Teenage Mutant Ninja Turtles | 'tmnt'
-- Street Fighter | 'streetfighter'
+- Teenage Mutant Ninja Turtles | `tmnt`
+- Street Fighter | `streetfighter`
 
 ## Instructions:
 
@@ -24,7 +24,7 @@ The es_systems.xml will go in ES-DE/custom_systems home directory, refer to ES-D
 
 Place the custom art and logos into their respective folder for that theme. 
 
-For custom collections, add a folder in the root directory of the theme with the name of the collection (EG create a 'tmnt' folder for Teenage Mutant Ninja Turtles). The easiest method for this is either downloading the folders that are in this repo or copying the 'custom-collections' folder in the root of the theme and then renaming the copy to the collection. 
+For custom collections, add a folder in the root directory of the theme with the name of the collection (EG create a `tmnt` folder for Teenage Mutant Ninja Turtles). The easiest method for this is either downloading the folders that are in this repo or copying the `custom-collections` folder in the root of the theme and then renaming the copy to the collection. 
 
 
 I just wrote a quick blurb on how to get these installed, if you want a deeper more thorough instruction set on how ES-DE handles custom content, I *highly* encourage everyone to read through ES-DE's User Manual on custom collections/systems.
