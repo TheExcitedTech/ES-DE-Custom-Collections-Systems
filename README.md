@@ -42,7 +42,7 @@ I organized the SVG logo files into three main categories:
 
 Feel free to submit a PR if you want to add another custom collection/system with artwork, or new logos!
 
-# Here are some screenshots of the artwork and logos!
+### Here are some screenshots of the artwork and logos!
 
 - Alekfull NX theme for ES-DE 
 https://github.com/anthonycaccese/alekfull-nx-es-de/tree/main
