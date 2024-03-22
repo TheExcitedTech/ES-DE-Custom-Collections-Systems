@@ -50,6 +50,8 @@ https://github.com/anthonycaccese/alekfull-nx-es-de/tree/main
 ![alt text](https://github.com/TheExcitedTech/ES-DE-Custom-Systems/blob/main/Examples/Alekful%201.png)
 ![alt text](https://github.com/TheExcitedTech/ES-DE-Custom-Systems/blob/main/Examples/Alekful%202.png)
 ![alt text](https://github.com/TheExcitedTech/ES-DE-Custom-Systems/blob/main/Examples/Alekful%203.png)
+![alt text](https://github.com/TheExcitedTech/ES-DE-Custom-Systems/blob/main/Examples/Alekful%204.png)
+![alt text](https://github.com/TheExcitedTech/ES-DE-Custom-Systems/blob/main/Examples/Alekful%205.png)
 
 - Artbook Next for ES-DE
 https://github.com/anthonycaccese/art-book-next-es-de/tree/main
