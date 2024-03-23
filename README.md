@@ -4,10 +4,12 @@ Custom systems/collections for the ES-DE themes. The custom es_systems.xml is in
 
 ## Custom Systems:
 
-- SMW Hacks | ROM Folder Name: `smwhacks`
-- Sonic Hacks | ROM Folder Name: `sonichacks`
-- Pokemon Hacks | ROM Folder Name: `pokehacks`
 - Genesis Hacks | ROM Folder Name: `genhacks`
+- Pokemon Hacks | ROM Folder Name: `pokehacks`
+- SMW Hacks | ROM Folder Name: `smwhacks`
+- SNES Hacks | ROM Folder Name: `sneshacks`
+- Sonic Hacks | ROM Folder Name: `sonichacks`
+
 
 For theme specific art, I kept them in their respective folder. 
 
